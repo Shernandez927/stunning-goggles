@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a starter learning page to demonstrate basic HTML and CSS knowledge as well as pushing files to a Github repository.
+- This is a starter learning page to demonstrate basic HTML and CSS knowledge as well as pushing files to a Github repository.
 
 
 ## Demo
