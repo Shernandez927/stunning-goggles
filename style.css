@@ -1,0 +1,67 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+    
+ body {
+    background: rgb(213,174,238);
+    background: radial-gradient(circle, rgba(213,174,238,1) 39%, rgba(148,187,233,1) 100%);
+
+ }
+ 
+
+ /*This is styling the header box and navigation links */
+header {
+    background-color: rgb(126, 87, 163);
+    margin: 0 auto;
+    padding: 10px;
+    border: 5px solid black;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+    margin: 5px;
+    background-color: aqua;
+    border: 3px solid black;
+    border-radius: 3px;
+}
+
+a {
+    text-decoration: none;
+}
+
+ /* This is styling the main section */
+main {
+    text-align: center;
+    background-color: rgb(234, 148, 215);
+    margin: 50px;
+    padding: 20px;
+    border: 5px solid black;
+    border-radius: 10px;
+
+}
+
+/*This is styling the contact section and button */
+.contactform {
+    background-color: rgb(121, 165, 235);
+   margin: 50px;
+   border: 5px solid black;
+   border-radius: 10px;
+   padding: 20px;
+   text-align: center;
+
+}
+
+
+button {
+    background-color: aqua;
+    padding: 15px;
+    margin-top: 10px;
+    border: 3px solid black;
+    border-radius: 3px;
+}
