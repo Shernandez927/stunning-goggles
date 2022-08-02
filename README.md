@@ -7,6 +7,8 @@
 
 ## Demo
 
+https://shernandez927.github.io/stunning-landing/
+
 ![pagescreenshot](./assets/miniprojectscreenshot.png)
 
 
